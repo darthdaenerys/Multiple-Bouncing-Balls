@@ -1,4 +1,4 @@
-# Animated-Bouncing-Balls
+# Multiple-Bouncing-Balls
 
 This repository does the same thing as the previous one but now there are two balls and additional effects like glow, trail and sound has been added. 
 
